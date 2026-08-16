@@ -1,16 +1,18 @@
-# Sutthipat Inkraitheuk Portfolio
-Portfolio Website ของนายสุทธิภัทร อินกระทึก (เฟรม)
+# Sutthipat Inkratuk Portfolio — V2
 
-## ไฟล์
-- index.html
-- style.css
-- script.js
+เว็บไซต์ Portfolio ส่วนบุคคลตามข้อมูลที่ผู้จัดทำให้มา
 
-## ก่อนส่ง
-1. เปลี่ยน Email / เบอร์โทร / GitHub / Facebook ให้เป็นข้อมูลจริง
-2. ใส่รูปโปรไฟล์จริงแทนพื้นที่ YOUR PHOTO
-3. ตรวจสอบข้อมูลการศึกษา ใบรับรอง และรางวัลให้ตรงกับข้อมูลจริง
-4. ทดสอบมือถือและ Desktop
-5. Upload ขึ้น GitHub แล้ว Deploy ด้วย GitHub Pages, Vercel หรือ Netlify
+## โครงสร้าง
+- `index.html` — หน้าเว็บไซต์
+- `style.css` — การออกแบบและ Responsive
+- `script.js` — เมนู, Animation และระบบขยายรูป Certificate
+- `certificate-data-ai.png` — Certificate Data & AI Skills for Everyone
+- `certificate-generative-ai.png` — Certificate Generative AI Foundations
 
-เว็บไซต์เป็น Static Website ใช้ HTML/CSS/JavaScript และมีส่วนอธิบาย AI-Assisted Development ตามกระบวนการ Think → Prompt → Result → Refine
+## ก่อนนำขึ้นใช้งานจริง
+1. ตรวจสอบชื่อ/ข้อมูลทุกส่วนอีกครั้ง
+2. ตรวจสอบลิงก์ Facebook และ GitHub ว่าเป็น URL ของบัญชีจริง
+3. ทดสอบ Email, โทรศัพท์ และทุกเมนู
+4. ทดสอบบนมือถือและ Desktop
+5. นำไฟล์ขึ้น GitHub และ Deploy ผ่าน GitHub Pages / Vercel / Netlify
+6. จัดทำ Prompt Log แยกเป็นเอกสารส่งอาจารย์ โดยบันทึก Think → Prompt → Result → Refine
